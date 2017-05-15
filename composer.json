@@ -1,0 +1,13 @@
+{
+  "name": "dezbyte/orm",
+  "description": "orm",
+  "keywords": ["php orm", "orm","dezbyte orm"],
+  "authors": [
+    {
+      "name": "Ivan Gontarenko",
+      "email": "stewie.dev@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "type": "library"
+}
